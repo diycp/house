@@ -9,4 +9,4 @@
 
 演示地址
 
-sloan.ren/house/index.php
+bool.ren/house/index.php
